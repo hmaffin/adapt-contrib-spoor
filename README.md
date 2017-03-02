@@ -38,7 +38,7 @@ First, change the three instances of the course title (currently set to "Adapt S
 
 Next, change the three identifiers ('adapt_manifest' and two instances of 'adapt_scorm') to be unique to your course. Any alphanumeric string that you know will not have already been used in a course on the LMS will be fine - for example '1234_manifest' and '1234_scorm'.
 
-There are many other ways the manifest can be set up and populated to your advantage. A full explanation is beyond the scope of this README. For more information, reference the [SCORM 1.2 documentation](http://www.adlnet.gov/resources/scorm-1-2-specification/), specifically the SCORM Content Aggregation Model ([SCORM_1.2_CAM](http://www.adlnet.gov/wp-content/uploads/2013/09/SCORM_1.2_CAM.pdf)).
+There are many other ways the manifest can be set up and populated to your advantage. A full explanation is beyond the scope of this README. For more information, reference the [SCORM 1.2 documentation](https://www.adlnet.gov/adl-research/scorm/scorm-1-2/), specifically the SCORM Content Aggregation Model ([SCORM_1.2_CAM](http://www.adlnet.gov/wp-content/uploads/2013/09/SCORM_1.2_CAM.pdf)).
 
 ### Add tracking IDs  
 
